@@ -19,4 +19,4 @@
 
 ### 截屏
 
-![](assets/admin.gif)
+![](assets/admin1.gif)
